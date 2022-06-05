@@ -19,7 +19,7 @@
 
 • pip install rich
 
-• git clone https://github.com/FAHIM404-CYBER/CRACK-PUBLIC
+• git clone https://github.com/FAHIM404-CYBER/CRACK-PUBLIC-V2
 
 • cd CRACK-PUBLIC-V2
 
